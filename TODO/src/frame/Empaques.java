@@ -133,6 +133,7 @@ public class Empaques extends javax.swing.JFrame {
         Menu M=new Menu();
         M.setVisible(true);
         dispose();
+        System.out.println("jair");
     }//GEN-LAST:event_jMenuItem2ActionPerformed
 
     public static void main(String args[]) {
